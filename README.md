@@ -1,6 +1,7 @@
 # Pattern-Recognition
 This repository is an example of Pattern Recognition for financial time series data. In this case, for Stock Market Analysis using the AGIO dataset.
 This code employs various algorithmic pattern recognition techniques to identify specific configurations in stock price and volume data.
+
 Here is how it is implemented:
 1) Feature Engineering for Pattern Recognition (calculate_indicators function)
 2) Explicit Pattern Identification (identify_crosses function)
